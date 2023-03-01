@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Credits
+title: DH Portfolio
 ---
 
 ### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist

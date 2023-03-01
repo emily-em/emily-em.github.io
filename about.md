@@ -3,57 +3,8 @@ layout: page
 title: About
 ---
 
-One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
-from one generation to another. The art of textual editing, among other practices, has helped many
-cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
-highest form by a dwindling number of scholars. In a digital environment the problem is compounded
-by the difficulties of the medium. While vast repositories and "e-publications" appear on the
-online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In
-contrast, most textual scholars who have made the leap to a rigorous digital practice have focused
-on markup, relying on technical teams to deploy and maintain their work. This makes your average
-scholarly digital edition a very costly and therefore limited affair.
+Emily Mellen is a Doctoral Candidate in Music at the University of Virginia. Her dissertation will discuss the music of Radio Bari, a propaganda radio station of the Fascist Italian state that broadcasted in Arabic towards the Middle East & North Africa from 1934-1943. Her research interests include voice studies, radio studies, music of the Arab world, theories of colonialism and anti-colonial movements, and postcolonial, feminist, and sound-based approaches to the Digital Humanities. Emily received a B.A. in Music History with a minor in Arabic from UCLA with the thesis “Voicing Arab Nationalism: Interpreting Singers Fairuz and Umm Kulthum.”
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and
-front end while flattening the learning curves for the user and the producer. Out of the box, the Ed
-theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes
-and a bibliography, without breaking the bank. In our estimate, these are the two most immediately
-useful type of editions for editors and readers. An edition produced with Ed consists of static
-pages whose rate of decay is substantially lower than database-driven systems. As an added bonus,
-these static pages require less bandwidth. Our hope is that our approach can help beginners and
-veterans deploy beautiful editions with less effort, and that it can help us teach a 'full stack'
-[in one academic semester](https://github.com/susannalles/MinimalEditions/blob/master/README.md),
-while allowing us to care for our projects at less cost, and perhaps, just perhaps, to generate
-high-quality editions on github.io in large quantities based on the
-[git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming
-for you, Kindle!
+Emily was a Praxis fellow in the digital humanities from 2019-2020 and previously worked as an intern in web design for Take Back the Archive (an archive of the history of sexual violence at UVa) and for the President’s Commission on the University in the Age of Segregation. She then held a position as PhD+ intern for the Office of the Vice Provost for Global Affairs and currently continues her work as communications assistant there. She has received travel grants from the Center for Global Inquiry and Innovation, the African Urbanism Lab, and the Institute of World Languages, as well as grants to attend the Summer School in Global Studies and Critical Theory at the University of Bologna and the Collections as Data course at the Humanities Intensive Learning and Teaching at Indiana University/Purdue University.
 
-
-## Sample Ed editions.
-
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
-
-
-## Current Features
-
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwidth scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our
-[documentation page](http://minicomp.github.io/ed/documentation).
+Before joining the University of Virginia, Emily received a B.A. in Music History with a minor in Arabic and Islamic Studies from UCLA. Her B.A. thesis, entitled Voicing Arab Nationalism: Interpreting Singers Fairuz and Umm Kulthum, was awarded the Friends of Musicology Best Undergraduate Senior Thesis prize.
