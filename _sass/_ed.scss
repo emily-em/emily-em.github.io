@@ -288,7 +288,7 @@ tbody tr:nth-child(odd) th {
   visibility: hidden;
   overflow-y: auto;
   font-family: 'Montserrat', sans-serif;
-  font-size: .875rem;/* 15px*/
+  font-size: $regular-font-size;/* 14px*/
   color: rgba(255,255,255,.6);
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
@@ -297,7 +297,7 @@ tbody tr:nth-child(odd) th {
 
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem;/* 14px */
+    font-size: 1rem;/* 14px */
   }
 }
 
