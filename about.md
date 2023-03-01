@@ -1,15 +1,7 @@
-# Ed: A Jekyll Theme for Minimal Editions
-
-[![Build Status](https://travis-ci.org/minicomp/ed.svg?branch=master)](https://travis-ci.org/minicomp/ed) [![Gem Version](https://badge.fury.io/rb/ed..svg)](https://badge.fury.io/rb/ed.)
-
-![Sample Ed screenshot](https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png)
-
-
-## Introduction
-
-Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on
-[minimal computing](http://go-dh.github.io/mincomp/) principles, and focused on legibility,
-durability, ease and flexibility.
+---
+layout: page
+title: About
+---
 
 One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
 from one generation to another. The art of textual editing, among other practices, has helped many
